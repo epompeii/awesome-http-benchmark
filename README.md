@@ -10,6 +10,7 @@ HTTP(S) Benchmark Tools
 * [__autocannon__](https://github.com/mcollina/autocannon) – fast HTTP/1.1 benchmarking tool written in Node.js
 * [__baloo__](https://github.com/h2non/baloo) – Expressive end-to-end HTTP API testing made easy, written in Go (`golang`)
 * [__baton__](https://github.com/americanexpress/baton) – HTTP load testing, written in Go (`golang`)
+* [__Bencher__](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
 * [__bombardier__](https://github.com/codesenberg/bombardier) – Fast crossplatform HTTP benchmarking tool, written in Go (`golang`)
 * [__cassowary__](https://github.com/rogerwelin/cassowary) – is a modern HTTP(S), intuitive & cross-platform load testing tool, written in Go (`golang`)
 * [__curl-loader__](http://curl-loader.sourceforge.net/) – performance loading of various application services and traffic generation, written in `C`
@@ -25,6 +26,7 @@ HTTP(S) Benchmark Tools
 * [__gohttpbench__](https://github.com/parkghost/gohttpbench) – `ab`-like benchmark tool run on multi-core cpu, written in Go (`golang`)
 * [__goloris__](https://github.com/valyala/goloris) – Slowloris for NGINX DoS attack, written in Go (`golang`)
 * [__goose__](https://github.com/tag1consulting/goose) - A modern, high-performance and flexible distributed HTTP(S) load testing tool, written in `Rust`
+* [__gotybench__](https://github.com/ghkdqhrbals/gotybench) - HTTP load testing with fuzzed json objects, written in Go (`golang`)
 * [__h2load__](https://nghttp2.org/documentation/h2load-howto.html) - benchmarking tool for HTTP/2 and HTTP/1.1. It supports SSL/TLS and clear text for all supported protocols, written in `C`/`C++`
 * [__hey__](https://github.com/rakyll/hey) – HTTP(S) load generator, ApacheBench (`ab`) replacement, formerly known as [__rakyll/boom__](https://github.com/rakyll/boom), written in Go (`golang`)
 * [__htstress__](https://github.com/arut/htstress) – multithreading high-load bechmarking services (>5K rps), written in `C`/`Linux`
